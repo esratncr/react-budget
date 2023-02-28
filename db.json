@@ -1,0 +1,29 @@
+{
+    "expenses":[
+        {
+            "id":"1",
+            "price":100,
+            "place":"A101",
+            "date":"27.02.2023",
+            "title":"haftalik market",
+            "description":"yağ bile almadk"
+
+        }
+    ],
+    "categories":[
+        {
+            "id":"1",
+            "name":"Market"
+        
+        },
+        {
+            "id":"2",
+            "name":"Giyim"
+        },
+        {
+            "id":"3",
+            "name":"Eğitim"
+        }
+
+    ]
+}
